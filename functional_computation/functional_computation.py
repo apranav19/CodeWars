@@ -13,12 +13,9 @@
 
 # Util functions
 def get_val(operator, operand):
-	if operator:
-		return operator(operand)
-	return operand
+	return operator(operand) if operator else operand
 
 # Begin functions for operators
-
 def add(n):
 	return lambda x: x + n
 
