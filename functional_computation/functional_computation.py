@@ -5,7 +5,7 @@
 
 	For example:
 	To compute 7 + 3 = 10, 
-	we can represent the equation above as:
+	we can represent the equation baove as:
 	seven(add(three())) = 10
 
 	The problem simply requires 2 operands and an operator
